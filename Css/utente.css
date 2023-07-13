@@ -1,0 +1,39 @@
+.fontlogo{
+	font-size: 80px;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	margin-top:50px;
+}
+
+html, body{
+		height: 100%;
+		background-color: #39cccc;
+		padding: 0;
+		margin: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.borderradius{
+	border-radius:25px;
+	border:none;
+}
+
+.align{
+	display:flex;
+	justify-content:center;
+	margin-top:50px;
+}
+
+.margin{
+	margin-left:100px;
+}
+
+button{
+	padding:15px 45px;
+}
+
+.pointer{
+	cursor:pointer;
+}

@@ -1,0 +1,31 @@
+.centerdettagli{
+	align-items:center;
+	display:flex;
+	margin-top: 150px;
+	margin-left:60px;
+}
+
+.imgdettagli{
+	width:700px;
+	height:700px;
+}
+
+.descrizione{
+	width:700px;
+	height:700px;
+	margin-left: 50px;
+}
+
+.nome{
+	text-align:center;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	color:white;
+	font-size:60px;
+}
+
+.info{
+	text-align:left;
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+}
